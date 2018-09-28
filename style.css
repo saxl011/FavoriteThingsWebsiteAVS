@@ -1,5 +1,34 @@
-*{text-align: center;}
-
+body {
+	background-image: url(https://78.media.tumblr.com/e5da3cb3fbe9af8f2198f3459e72424a/tumblr_inline_n258tklDt11qhwjx8.png;)
+}
 h1 {
-	color; #e89076;
+	font-family: century;
+	font-weight: bold;
+	font-size: 72px;
+	text-align: center;
+	color: #ff326c
+
+}
+h2 {
+	font-family: "dubai light";
+	font-size: 52px;
+	color:#ffb5da;
+	margin-left: 1.2in
+}
+
+img, iframe {
+	width: 870px;
+	height: 480px;
+}
+
+.divider {
+	width: 611px;
+	height: 77px;
+	margin-bottom: 2in
+}
+
+.centerimg {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
